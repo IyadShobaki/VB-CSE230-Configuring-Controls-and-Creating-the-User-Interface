@@ -1,0 +1,13 @@
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\DialogForms,Acc,,,\DialogForms,Acc,,,\bin\Debug\DialogForms,Acc,,,.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\DialogForms,Acc,,,\DialogForms,Acc,,,\bin\Debug\DialogForms,Acc,,,.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\DialogForms,Acc,,,\DialogForms,Acc,,,\bin\Debug\DialogForms,Acc,,,.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\DialogForms,Acc,,,\DialogForms,Acc,,,\bin\Debug\DialogForms,Acc,,,.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\DialogForms,Acc,,,\DialogForms,Acc,,,\obj\Debug\DialogForms_Acc___.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\DialogForms,Acc,,,\DialogForms,Acc,,,\obj\Debug\DialogForms_Acc___.Form2.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\DialogForms,Acc,,,\DialogForms,Acc,,,\obj\Debug\DialogForms_Acc___.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\DialogForms,Acc,,,\DialogForms,Acc,,,\obj\Debug\DialogForms,Acc,,,.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\DialogForms,Acc,,,\DialogForms,Acc,,,\obj\Debug\DialogForms,Acc,,,.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\DialogForms,Acc,,,\DialogForms,Acc,,,\obj\Debug\DialogForms,Acc,,,.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\DialogForms,Acc,,,\DialogForms,Acc,,,\obj\Debug\DialogForms,Acc,,,.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\DialogForms,Acc,,,\DialogForms,Acc,,,\obj\Debug\DialogForms,Acc,,,.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\DialogForms,Acc,,,\DialogForms,Acc,,,\obj\Debug\DialogForms,Acc,,,.vbprojAssemblyReference.cache

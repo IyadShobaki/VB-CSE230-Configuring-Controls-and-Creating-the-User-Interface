@@ -1,0 +1,12 @@
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\MouseMoveEvent\MouseMoveEvent\bin\Debug\MouseMoveEvent.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\MouseMoveEvent\MouseMoveEvent\bin\Debug\MouseMoveEvent.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\MouseMoveEvent\MouseMoveEvent\bin\Debug\MouseMoveEvent.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\MouseMoveEvent\MouseMoveEvent\bin\Debug\MouseMoveEvent.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\MouseMoveEvent\MouseMoveEvent\obj\Debug\MouseMoveEvent.vbprojAssemblyReference.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\MouseMoveEvent\MouseMoveEvent\obj\Debug\MouseMoveEvent.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\MouseMoveEvent\MouseMoveEvent\obj\Debug\MouseMoveEvent.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\MouseMoveEvent\MouseMoveEvent\obj\Debug\MouseMoveEvent.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\MouseMoveEvent\MouseMoveEvent\obj\Debug\MouseMoveEvent.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\MouseMoveEvent\MouseMoveEvent\obj\Debug\MouseMoveEvent.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\MouseMoveEvent\MouseMoveEvent\obj\Debug\MouseMoveEvent.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 2\MouseMoveEvent\MouseMoveEvent\obj\Debug\MouseMoveEvent.pdb

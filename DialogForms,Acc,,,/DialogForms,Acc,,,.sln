@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DialogForms,Acc,,,", "DialogForms,Acc,,,\DialogForms,Acc,,,.vbproj", "{33464947-EC69-4D1C-B32C-94D471DA8CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33464947-EC69-4D1C-B32C-94D471DA8CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33464947-EC69-4D1C-B32C-94D471DA8CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33464947-EC69-4D1C-B32C-94D471DA8CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33464947-EC69-4D1C-B32C-94D471DA8CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A6C3D8F-C9E6-4306-9D1A-06848EC54DAC}
+	EndGlobalSection
+EndGlobal
